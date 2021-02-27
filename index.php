@@ -1,0 +1,238 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="author" content="colorlib.com">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Buy Instagram Services | 200 Instagram Likes</title>
+
+    <!-- Font Icon -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="fonts/material-icon/css/material-design-iconic-font.min.css">
+	  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
+	  
+    <!-- Main css -->
+	<link rel="stylesheet" href="css/style.css">
+	
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="css/profile_info.css">
+	<link rel="stylesheet" type="text/css" href="css/loading.css"/>
+	<link rel="stylesheet" type="text/css" href="css/loading-btn.css"/>
+</head>
+
+<body> 
+<div class="main">
+
+        <div class="container">
+            <h2>Get started</h2>
+            <form class="validate-form">
+			<div class="steps clearfix"><ul role="tablist">
+			<li role="tab" class="tab-step-1 current">
+				<span>
+					<h3 class="title">
+						User Info
+					</h3>
+				</span>
+			</li>
+				<li role="tab" class="tab-step-2">
+					<span>
+						<h3 class="title">
+						Profile Info
+						</h3>
+					</span>
+				</li>
+				<li role="tab" class="tab-step-3">
+					<span>
+						<h3 class="title">
+						Order Details
+						</h3>
+					</span>
+				</li>
+				
+			
+				</ul>
+				</div>
+<div class="content clearfix">
+                
+                <fieldset role="tabpanel"  class="step-1 current"  >
+                    <div class="form-row">
+                        <div class="form-file">
+                            
+                            <label>
+                                <figure>
+                                    <img src="images/your-picture.png" alt="" class="your_picture_image">
+                                </figure>
+                                
+                            </label>
+                        </div>
+                        <div class="form-group-flex">
+                            <div class="form-group validate-input username_attr" data-validate = "Username is required">
+                                <input class="input100" type="text" name="username" id="username" placeholder="Username">
+								<span class="focus-input100"></span>
+                            </div>
+                            <div class="form-group validate-input" data-validate = "Email is required">
+                                <input class="input100" type="email" name="email" id="email" placeholder="Email">
+								<span class="focus-input100"></span>
+                            </div>
+                        </div>
+                    </div>
+                </fieldset>
+
+                <h3 id="signup-form-h-1" tabindex="-1" class="title">
+                    Profile Info
+                </h3>
+                <fieldset  role="tabpanel" id="step-2"  class="step-2 body"  style="display: none;">
+                   <!-- profile data -->
+				   
+  <header>
+
+	
+
+		<div class="profile">
+
+			<div class="profile-image">
+
+				<img src="https://images.unsplash.com/photo-1513721032312-6a18a42c8763?w=152&amp;h=152&amp;fit=crop&amp;crop=faces" id="profile_pic" alt="">
+
+			</div>
+
+			<div class="profile-user-settings">
+
+				<h1 class="profile-user-name">loading...</h1>
+
+				<span id="text-username" class="btn profile-edit-btn">loading...</span>
+
+				
+			</div>
+
+			<div class="profile-stats">
+
+				<ul>
+					<li><span class="profile-stat-count" id="total_posts">loading...</span> posts</li>
+					<li><span class="profile-stat-count" id="user_followers">loading...</span> followers</li>
+					<li><span class="profile-stat-count" id="user_following">loading...</span> following</li>
+				</ul>
+
+			</div>
+
+			<div class="profile-bio">
+				
+				
+				<p id="user_description"> loading..</p> <br /> 
+				<span id="private-text"></span>
+				
+
+			</div>
+
+		</div>
+		<!-- End of profile section -->
+
+	
+	<!-- End of container -->
+
+</header>
+
+<main>
+
+	<div class="profile_container">
+
+		<div class="gallery">
+
+			
+
+		</div>
+		<!-- End of gallery -->
+
+		<div class="load_class "></div>
+		
+		<button class="btn_load">Load More</button>
+
+	</div>
+	<!-- End of container -->
+
+</main>
+
+  
+
+				   
+				   
+				   <!-- end profile data -->
+                </fieldset> 
+				
+				<h3 id="signup-form-h-1" tabindex="-1" class="title">
+                    Order Info
+                </h3>
+                <fieldset  role="tabpanel" id="step-3"  class="step-3 body" style="display:none;" >
+				
+				
+				
+                    <table  class="table-cart shop_table shop_table_responsive cart woocommerce-cart-form__contents table" id="shop_table">
+                        <thead>
+                            <tr>
+							
+                            <th >Product Detail</th>
+                            <th>Quantity</th>
+                            <th>Link</th>
+                            <th>Profile Code</th>
+                            
+                        </tr>
+						</thead>
+                        <tbody class="order_details">
+                            
+                      
+                        </tbody>
+                    </table>
+                
+				   
+				   
+				   
+                </fieldset>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+            </div>
+<div class="actions clearfix test">
+    <ul role="menu" aria-label="Pagination">
+        <li class="disabled" aria-disabled="true"><a href="#previous" role="menuitem">Previous</a></li>
+        <li aria-hidden="false" aria-disabled="false">
+		<button id="next_btn" class="check_userinfo ld-ext-top" role="menuitem">
+		<span id="submit-text">Next</span>
+		<div class="ld ld-ring ld-spin-fast" style="font-size:1.5em"></div>
+		
+		</button>
+		</li>
+        <li aria-hidden="true" style="display: none;"><a href="#finish" role="menuitem">Finish</a></li>
+    </ul>
+</div>
+
+			</form>
+        </div>
+
+    </div>
+	
+	
+	
+	  <script src="vendor/jquery/jquery.min.js"></script>
+	<script src="vendor/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="vendor/jquery-validation/dist/additional-methods.min.js"></script>
+    <script src="vendor/jquery-steps/jquery.steps.min.js"></script>
+    <script src="js/main.js"></script>
+    
+	
+</body>
+
+
+</html>
